@@ -4,7 +4,7 @@ pragma solidity 0.8.17;
 import { Consideration } from "./lib/Consideration.sol";
 
 /**
- * @title Seaport
+ * @title Alienswap
  * @custom:version 1.4
  * @author 0age (0age.eth)
  * @custom:coauthor d1ll0n (d1ll0n.eth)
@@ -82,7 +82,7 @@ import { Consideration } from "./lib/Consideration.sol";
  *         spent (the "offer") along with an arbitrary number of items that must
  *         be received back by the indicated recipients (the "consideration").
  */
-contract Seaport is Consideration {
+contract Alienswap is Consideration {
     /**
      * @notice Derive and set hashes, reference chainId, and associated domain
      *         separator during deployment.
@@ -116,6 +116,6 @@ contract Seaport is Consideration {
      */
     function _nameString() internal pure override returns (string memory) {
         // Return the name of the contract.
-        return "Seaport";
+        return "Alienswap";
     }
 }

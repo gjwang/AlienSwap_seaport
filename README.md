@@ -9,9 +9,9 @@
 [![JS Library][js-library-badge]][js-library-link]
 [![Discord][discord-badge]][discord-link]
 
-# Seaport
+# Alienswap_Seaport
 
-Seaport is a new marketplace protocol for safely and efficiently buying and selling NFTs.
+Alienswap_Seaport is a fork of seaport
 
 ## Table of Contents
 
