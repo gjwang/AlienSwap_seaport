@@ -11,7 +11,8 @@
 
 # Alienswap_Seaport
 
-Alienswap_Seaport is a fork of seaport
+Alienswap_Seaport is Fork from seaport1.4
+Just rename Contract Name, to diff from origin seaport1.4
 
 ## Table of Contents
 
