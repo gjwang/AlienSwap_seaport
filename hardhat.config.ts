@@ -56,8 +56,8 @@ const optimizerSettingsNoSpecializer = {
     constantOptimizer: true,
     yulDetails: {
       stackAllocation: true,
-      optimizerSteps:
-        "dhfoDgvulfnTUtnIf[xa[r]EscLMcCTUtTOntnfDIulLculVcul [j]Tpeulxa[rul]xa[r]cLgvifCTUca[r]LSsTOtfDnca[r]Iulc]jmul[jul] VcTOcul jmul",
+      // optimizerSteps:
+      //  "dhfoDgvulfnTUtnIf[xa[r]EscLMcCTUtTOntnfDIulLculVcul [j]Tpeulxa[rul]xa[r]cLgvifCTUca[r]LSsTOtfDnca[r]Iulc]jmul[jul] VcTOcul jmul",
     },
   },
 };
